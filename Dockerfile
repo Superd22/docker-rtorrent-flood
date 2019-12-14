@@ -16,7 +16,7 @@ ENV UID=991 \
 LABEL Description="flood based on alpine" \
       tags="" \
       commit="" \
-      maintainer="xataz <https://github.com/xataz>" \
+      maintainer="Superd22 <https://github.com/Superd22>" \
       build_ver="201807010800"
 
 RUN export BUILD_DEPS="build-base \
